@@ -5,3 +5,4 @@ Living Landscapes is an interactive web-based system that transforms spoken or w
 python3 -m venv venv or python3.10 -m venv stable-env
 source venv/bin/activate or source stable-env/bin/activate
 pip install or pip3 install
+python app.py or python3 app.py
