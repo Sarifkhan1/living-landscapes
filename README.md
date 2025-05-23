@@ -4,3 +4,6 @@ Living Landscapes is an interactive web-based system that transforms spoken or w
  python3 -m venv venv
  source venv/bin/activate
  python wordscape.py
+
+
+ pygbag --build main.py
